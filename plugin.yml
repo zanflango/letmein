@@ -1,0 +1,11 @@
+## YAML Template.
+---
+name: LetMeIn
+version: 0.1
+main: zanflango.letmein.LetMeIn
+description: Open all nearby doors
+commands:
+    letmein:
+        description: Open all nearby doors
+        usage: type /letmein and doors open. 
+        
